@@ -19,7 +19,6 @@
 - 💬 Ask me about: anything, I am happy to help
 - ⚡ Fun fact: *I used to be a werewoolf… But I’m much better noooooooooooow ! 😂*
 
----
 <details>
   <summary>
   A bit more about me?
@@ -45,6 +44,8 @@ const developer = {
 };
 ```
 </details>
+
+## 
 
 <img align="left" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300" height="240" />
 
