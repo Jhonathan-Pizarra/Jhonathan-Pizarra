@@ -115,7 +115,7 @@ const developer = {
 
 
 
-<h3 align="center">Reanimar:</h3>
+<h3 align="center">Reanimate:</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/jonathanpizarra" target="_blank"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jonathanpizarra" />
