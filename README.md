@@ -12,11 +12,12 @@
 
 - 🔭 I’m currently working on: My tesis project
 - ❤️ My favorite language: Java
-- 🌱 I’m currently learning GraphQL, NextJS, Ethical hacking, R
+- 🌱 I’m currently learning: GraphQL, NextJS, Ethical hacking, R
 - 👯 I’m always looking to collaborate with: scientist from any field
 - 👨‍💻 All of my projects are available at: [my portfolio](https://jhonathan-pizarra.github.io/portfolio/)
 - 📄 Know about my experiences: [resume](https://jhonathanpizarra.blogspot.com/)
 - 💬 Ask me about: anything, I am happy to help
+- 🎯 I'm intrested in: Software development, QA testing, Cybersecurity
 - ⚡ Fun fact: *I used to be a werewoolf… But I’m much better noooooooooooow ! 😂*
 
 <details>
@@ -91,9 +92,9 @@ const developer = {
         <td><a href="https://www.youtube.com/watch?v=UTpWtMxG1XE">Calculadora Andorid - Tópicos Especiales</a><br/>Dec 10, 2020</td>
     </tr>
     <tr>
-      <td><a href="https://www.youtube.com/watch?v=KpsJWFuVTdI">
+      <td><a href="https://www.youtube.com/watch?v=5k3a2kL-SLE">
         <img width="140px" height="80px" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/Youtube_2.png"></a></td>
-      <td><a href="https://www.youtube.com/watch?v=KpsJWFuVTdI">Emprendimiento - Comercio Electrónico</a><br/>Dec 1, 2020</td>
+      <td><a href="https://www.youtube.com/watch?v=5k3a2kL-SLE">Geolocalización Spotify + PWA - PROTECTO Distribuidas</a><br/>Dec 1, 2020</td>
     </tr>
     <tr>
       <td><a href="https://www.youtube.com/watch?v=YboYNM575rI">
@@ -116,13 +117,14 @@ const developer = {
 
 <h3 align="center">Reanimar:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/jonathanpizarra" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"      alt="jonathanpizarra" />
+  <a href="https://www.buymeacoffee.com/jonathanpizarra" target="_blank"> 
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jonathanpizarra" />
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/jonathanpizarra" target="_blank"> <img align="center" alt="GIF" src="https://github.com/Jhonathan-Pizarra/Dilinger-README/blob/main/images/animar_1.png" width="280" height="220" />
+  <a href="https://www.buymeacoffee.com/jonathanpizarra" target="_blank"> <img align="center" alt="Coffee-Jhonathan" src="https://github.com/Jhonathan-Pizarra/Dilinger-README/blob/main/images/animar_1.png" width="280" height="220" />
   </a>
 </p>
 
