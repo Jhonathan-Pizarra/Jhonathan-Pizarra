@@ -77,35 +77,35 @@ const developer = {
 <!-- YOUTUBE:START -->
     <tr>
       <td>
-        <a href="https://www.youtube.com/watch?v=P91pvMdoZ80">
-          <img width="140px" height="80px" src="https://github.com/Jhonathan-Pizarra/Dilinger-README/blob/main/images/Thankyou_5.jpg">
+        <a href="https://www.youtube.com/watch?v=OBxkYZyJ2bY">
+          <img width="140px" height="80px" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/Youtube_2.png">
         </a>
       </td>
-      <td><a href="https://www.youtube.com/watch?v=P91pvMdoZ80">Fly me to the moon - Ending Evangelion (Versión completa)</a><br/>Dec 22, 2020</td>
+      <td><a href="https://www.youtube.com/watch?v=OBxkYZyJ2bY">Sistema de Gestión de Eventos - Proyecto Inconcerto</a><br/>Jan 22, 2021</td>
     </tr>
       <tr>
-        <td><a href="https://www.youtube.com/watch?v=4CsRccs08Ns">
-           <img width="140px" height="80px" src="https://github.com/Jhonathan-Pizarra/Dilinger-README/blob/main/images/Thankyou_5.jpg">
+        <td><a href="https://www.youtube.com/watch?v=UTpWtMxG1XE">
+           <img width="140px" height="80px" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/Youtube_2.png">
             </a>
         </td>
-        <td><a href="https://www.youtube.com/watch?v=4CsRccs08Ns">Miki Matsubara - Stay with me Live 1980</a><br/>Dec 10, 2020</td>
+        <td><a href="https://www.youtube.com/watch?v=UTpWtMxG1XE">Calculadora Andorid - Tópicos Especiales</a><br/>Dec 10, 2020</td>
     </tr>
     <tr>
       <td><a href="https://www.youtube.com/watch?v=KpsJWFuVTdI">
-        <img width="140px" height="80px" src="https://github.com/Jhonathan-Pizarra/Dilinger-README/blob/main/images/Thankyou_5.jpg"></a></td>
-      <td><a href="https://www.youtube.com/watch?v=KpsJWFuVTdI">いきものがかり 『ブルーバード』Music Video</a><br/>Dec 1, 2020</td>
+        <img width="140px" height="80px" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/Youtube_2.png"></a></td>
+      <td><a href="https://www.youtube.com/watch?v=KpsJWFuVTdI">Emprendimiento - Comercio Electrónico</a><br/>Dec 1, 2020</td>
     </tr>
     <tr>
       <td><a href="https://www.youtube.com/watch?v=YboYNM575rI">
-         <img width="140px" height="80px" src="https://github.com/Jhonathan-Pizarra/Dilinger-README/blob/main/images/Thankyou_5.jpg"></a>
+         <img width="140px" height="80px" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/Youtube_2.png"></a>
        </td>
-    <td><a href="https://www.youtube.com/watch?v=YboYNM575rI">잘때 듣기 좋은 이누야샤 브금 1시간</a><br/>Nov 17, 2020</td>
+    <td><a href="https://www.youtube.com/watch?v=YboYNM575rI">Arquitectura Integral de Global Lawlyers - PROTECTO VoIP</a><br/>Nov 17, 2020</td>
     </tr>
     <tr>
-      <td><a href="https://www.youtube.com/watch?v=TAUh0R0Di_8">
-          <img width="140px" height="80px" src="https://github.com/Jhonathan-Pizarra/Dilinger-README/blob/main/images/Thankyou_5.jpg"></a>
+      <td><a href="https://www.youtube.com/watch?v=bri3mBLGfoY">
+          <img width="140px" height="80px" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/Youtube_2.png"></a>
       </td>
-    <td><a href="https://www.youtube.com/watch?v=TAUh0R0Di_8">[沒有廣告] 宮崎駿動畫歌曲 - 超級精選, 天空之城, 龍貓, 哈爾移動城堡, 千與千尋, 風之谷, 貓之報恩t</a><br/>Nov 10, 2020</td>
+    <td><a href="https://www.youtube.com/watch?v=bri3mBLGfoY">Desarollo de WS y 2 clientes para el consumo del mismo - PROYECTO SOA</a><br/>Sep 22, 2020</td>
     </tr>
 <!-- YOUTUBE:END -->
   </tbody>
@@ -116,23 +116,23 @@ const developer = {
 
 <h3 align="center">Reanimar:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/jonathanpizarra"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"      alt="jonathanpizarra" />
+  <a href="https://www.buymeacoffee.com/jonathanpizarra" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"      alt="jonathanpizarra" />
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/jonathanpizarra"> <img align="center" alt="GIF" src="https://github.com/Jhonathan-Pizarra/Dilinger-README/blob/main/images/animar_1.png" width="280" height="220" />
+  <a href="https://www.buymeacoffee.com/jonathanpizarra" target="_blank"> <img align="center" alt="GIF" src="https://github.com/Jhonathan-Pizarra/Dilinger-README/blob/main/images/animar_1.png" width="280" height="220" />
   </a>
 </p>
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="mailto:jhonathan-xabier@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/mailicon.png" alt="jhonathan-pizarra" height="50" width="40" /></a>
-<a href="https://twitter.com/jonathanpizarra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanpizarra" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=593999873989&text=%C2%A1Hola!%20" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/whatsapp.png" alt="jhonathan.pizarra" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/jhonathan-pizarra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonathan-pizarra" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14233115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14233115" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCykQq7vzMZtpKrsZQIuRQyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucykqq7vzmztpkrszqiurqyg" height="30" width="40" /></a>
+<a href="mailto:jhonathan-xabier@hotmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/mailicon.png" alt="jhonathan-pizarra" height="50" width="40" /></a>
+<a href="https://twitter.com/jonathanpizarra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanpizarra" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=593999873989&text=%C2%A1Hola!%20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Jhonathan-Pizarra/Dilinger-README/main/images/whatsapp.png" alt="jhonathan.pizarra" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/jhonathan-pizarra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonathan-pizarra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14233115" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14233115" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCykQq7vzMZtpKrsZQIuRQyg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucykqq7vzmztpkrszqiurqyg" height="30" width="40" /></a>
 </p>
