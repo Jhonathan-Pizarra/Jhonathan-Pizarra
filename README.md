@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available at: [my portfolio](https://jhonathan-pizarra.github.io/portfolio/)
 - 📄 Know about my experiences: [resume](https://jhonathanpizarra.blogspot.com/)
 - 💬 Ask me about: anything, I am happy to help
-- 🎯 I'm intrested in: Software development, QA testing, Cybersecurity
+- 🎯 I'm intrested in: Software development, Cybersecurity
 - ⚡ Fun fact: *I used to be a werewoolf… But I’m much better noooooooooooow ! 😂*
 
 <details>
